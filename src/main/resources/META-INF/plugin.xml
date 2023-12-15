@@ -1,12 +1,10 @@
 <idea-plugin>
     <id>org.dmfs.intellij.unclutter</id>
-    <name>Unclutter Java</name>
+    <name>Unclutter Java (fork)</name>
     <vendor email="marten@dmfs.org"
             url="https://dmfs.org">dmfs GmbH
     </vendor>
-    <idea-version since-build="203"
-                  until-build="203"/>
-
+    <idea-version/>
     <description><![CDATA[
         <p>
         Reduce cognitive load when parsing Java code by folding some verbose syntax.

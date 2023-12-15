@@ -34,7 +34,6 @@ intellij {
 
 patchPluginXml {
     sinceBuild = "203"
-    untilBuild = ""
     changeNotes = """
       <h1>0.13.1</h1>
       <ul>
